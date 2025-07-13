@@ -14,5 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-✅ Added this line directly from GitHub for Task 2
+✅ Added this line directly from GitHub for Task 2.
 
